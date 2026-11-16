@@ -1,0 +1,44 @@
+{
+  "source_page": "https://mospolytech.ru/ob-universitete/brandbook/",
+  "logo_guide": "https://mospolytech.ru/upload/files/brandbook/Logobuk_MoscowPolytech.pdf",
+  "palette_source": "https://cloudbox.mospolytech.ru/s/Ebf7XEjTarTTYqy",
+  "logo_source": "https://cloudbox.mospolytech.ru/s/ee4nimagdXKyy6Y",
+  "font_source": "https://cloudbox.mospolytech.ru/s/toRbEHBwj2irYpk",
+  "palette": {
+    "black": "#000000",
+    "white": "#FFFFFF",
+    "pink": "#EC2550",
+    "purple": "#9164C9",
+    "blue": "#2C5BBA"
+  },
+  "files": {
+    "mospolytech-black.svg": {
+      "sha256": "188ca8f729592aa92f8061a364fca5f97ffe068716f5997a54f01aef68a29d31",
+      "bytes": 318121
+    },
+    "mospolytech-white.svg": {
+      "sha256": "752ef6f94eeadfc620e38dfa95df9b4660ef7fc11e981d16beac54761cc6d7aa",
+      "bytes": 317602
+    },
+    "fonts/Gilroy-Bold.otf": {
+      "sha256": "34273b76dd2e55cf68a5ff82223c7dbb30d04babf0fbe177f7957c65be8e4f4c",
+      "bytes": 55376
+    },
+    "fonts/Gilroy-Medium.otf": {
+      "sha256": "6f83677606b2235e0a687535c7a0a96156b554d622c659ceea7dbb90372225c6",
+      "bytes": 54972
+    },
+    "fonts/Gilroy-Regular.otf": {
+      "sha256": "11f0395ac2ad058ebbd3b44a9be3f387611e9e14bdd10b7eac7d38ce5c5c7776",
+      "bytes": 53840
+    },
+    "fonts/Gilroy-SemiBold.otf": {
+      "sha256": "60d34dcfd46cf6328488f5eea4dddf42f7fe2109ce977c166105c06734126781",
+      "bytes": 55212
+    },
+    "fonts/LICENSE.html": {
+      "sha256": "9ec92a68e3cda14301dadaed7e9eff1d6093b320ba8241e30b2e310360a3cefc",
+      "bytes": 5539
+    }
+  }
+}
